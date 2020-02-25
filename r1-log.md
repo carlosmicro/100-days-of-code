@@ -1,10 +1,14 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Carlos Anriquez]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+**Today's Progress**: completed fixes for my ruby project 2 @microverseinc online school. Fixed enumerable methods #my_all, #my_none, #my_any and #my_inject. submitted code for review. now more relaxed and waiting for my code feedback.
 
-### R1D2
+**Thoughts:** Since I am learning how to work with rubocop, it was a little struggle to make rubocop happy and fix cyclomatic and complexity rules. 
+
+**Link to work:** [enumerable's pull request](https://github.com/canriquez/enumerable/pull/4)
+
+
