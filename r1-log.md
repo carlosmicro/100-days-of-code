@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 ## Log
 
 ### R1D2 
-**Today's Progress**: Making progress on Ruby's lessons for Object Oriented Programming @microverseinc online school. Started project 3 (Intermediate Ruby) with milestone 1 and 2 for the tic tac toe project. With my coding Partner Dannison, we milestone 1 (Ruby - Project 3) for code for review.
+**Today's Progress**: Making progress on Ruby's Object Oriented Programming curriculum @microverseinc online school. Started project 3 (Intermediate Ruby) with milestone 1 and 2 for the tic tac toe project. With my coding Partner Dannison, we submitted milestone 1 (enviroment creation) for code for review.
 
 **Thoughts:** I am loving Ruby OOP. Code academy material is great. Taking notes like crazy. 
 
