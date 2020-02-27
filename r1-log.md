@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 ## Log
 
 ### R1D3 
-**Today's Progress**: Coding challenges: I completed Decode the Morse code @code_wars. Man, I need to refactor the solution though!
+**Today's Progress**: Completed Ruby's Object Oriented Programming curriculum @microverseinc online school. Had great fun with Ruby's OOP course at @Codecademy. Great fun on one of the practices. challenges: I completed Decode the Morse code @codewars.I need to refactor the solution though!
 
 **Thoughts:** 
 
