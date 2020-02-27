@@ -4,6 +4,13 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
 
+### R1D3 
+**Today's Progress**: Coding challenges: I completed Decode the Morse code @code_wars. Man, I need to refactor the solution though!
+
+**Thoughts:** 
+
+**Link to work:** [OOP project Tic Tac Toe](https://github.com/dannisonarias/Object-Oriented-Program-Project-tic-tac-toe-)
+
 ### R1D2 
 **Today's Progress**: Making progress on Ruby's Object Oriented Programming curriculum @microverseinc online school. Started project 3 (Intermediate Ruby) with milestone 1 and 2 for the tic tac toe project. With my coding Partner Dannison, we submitted milestone 1 (enviroment creation) for code for review.
 
