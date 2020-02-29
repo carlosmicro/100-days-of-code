@@ -16,7 +16,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 **Thoughts:** Feeling pumped on progress this week
 **Twitter:
-[https://twitter.com/cranriquez/status/1233853097124007938][R1D4 - Milestone 1 TicTacToe Ruby's project approved. Game is now functional. Goal is finishing the project next week @microverseinc. I had a great stand up session reviewing Clifton's capstone progress. Solved Kata: 'Take a Ten Minute Walk'@codewars #ruby #webdevelopment #100DaysOfCode]
+[R1D4 - Milestone 1 TicTacToe Ruby's project approved. Game is now functional. Goal is finishing the project next week @microverseinc. I had a great stand up session reviewing Clifton's capstone progress. Solved Kata: 'Take a Ten Minute Walk'@codewars #ruby #webdevelopment #100DaysOfCode](https://twitter.com/cranriquez/status/1233853097124007938)
 
 ### R1D3 
 **Today's Progress**: Completed Ruby's Object Oriented Programming curriculum @microverseinc online school. Had great fun with Ruby's OOP course at @Codecademy. Great fun on one of the practices. challenges: I completed Decode the Morse code @codewars.I need to refactor the solution though!
