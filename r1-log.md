@@ -4,8 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
 
+### R1D5 
+**Today's Progress**:  challenges: finally solved 'Take a Ten Minute Walk' and 'Multiples of 3 or 5' @codewars.
+
+**Thoughts:** Feeling pumped on progress this week
+**Twitter:
+
 ### R1D4 
-**Today's Progress**: Worked on tic tac toe game. milestone one approved. Milestone 2 submitted. The game is now functional. Goal is to finish project next week @microverseinc online school. Had a great stand up session this morning reviewing Clifton's great capstone project progress. challenges: worked on kata 'Take a Ten Minute Walk' @codewars.
+**Today's Progress**: Worked on tic tac toe game. milestone one approved. Milestone 2 submitted. The game is now functional. Goal is to finish project next week @microverseinc online school. Had a great stand up session this morning reviewing Clifton's great capstone project progress. challenges: worked on 'Take a Ten Minute Walk' @codewars.
 
 **Thoughts:** Feeling pumped on progress this week
 **Twitter:
