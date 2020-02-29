@@ -7,7 +7,8 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 ### R1D5 
 **Today's Progress**:  challenges: finally solved 'Take a Ten Minute Walk' and 'Multiples of 3 or 5' @codewars.
 
-**Thoughts:** Feeling pumped on progress this week
+**Thoughts:** Feeling pumped on progress this week.
+
 **Twitter:R1D5 challenges: finally solved 'Take a Ten Minute Walk' and 'Multiples of 3 or 5' @codewars.
 
 
