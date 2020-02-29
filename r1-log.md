@@ -16,6 +16,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 **Today's Progress**: Worked on tic tac toe game. milestone one approved. Milestone 2 submitted. The game is now functional. Goal is to finish project next week @microverseinc online school. Had a great stand up session this morning reviewing Clifton's great capstone project progress. challenges: worked on 'Take a Ten Minute Walk' @codewars.
 
 **Thoughts:** Feeling pumped on progress this week
+
 **Twitter:
 [R1D4 - Milestone 1 TicTacToe Ruby's project approved. Game is now functional. Goal is finishing the project next week @microverseinc. I had a great stand up session reviewing Clifton's capstone progress. Solved Kata: 'Take a Ten Minute Walk'@codewars #ruby #webdevelopment #100DaysOfCode](https://twitter.com/cranriquez/status/1233853097124007938)
 
