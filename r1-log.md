@@ -4,6 +4,30 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
 
+### R1D8
+**Today's Progress**:  
+
+**Thoughts:** .
+
+**Twitter:R1D7. Solved Kata:  @codewars #ruby #webdevelopment #100DaysOfCode
+
+### R1D7
+**Today's Progress**: Ruby's OOP project (milestone 3) in the making. Also, took part of the great sessionEmbracing your Diversity! A talk with Chantal Rollinson from Gitlab Game @microverseinc
+ online school.
+
+**Thoughts:** Feeling pumped on progress this week.
+
+**Twitter:R1D7. Solved Kata:Find the divisors!  @codewars #ruby #webdevelopment #100DaysOfCode
+
+### R1D6 
+**Today's Progress**:  Working on TicTacToe Ruby's milestone 3 - Object-Oriented programming requirements @microverseinc
+ online school. Solved Kata: 'Take a Ten Minute Walk' and 'Multiples of 3 or 5'
+
+**Thoughts:** Feeling pumped on progress this week.
+
+**Twitter:R1D6. Working on TicTacToe Ruby's milestone 3 - Object-Oriented programming requirements @microverseinc
+ online school. Solved Kata: 'Take a Ten Minute Walk' and 'Multiples of 3 or 5' @codewars #ruby #webdevelopment #100DaysOfCode
+
 ### R1D5 
 **Today's Progress**:  challenges: finally solved 'Take a Ten Minute Walk' and 'Multiples of 3 or 5' @codewars.
 
