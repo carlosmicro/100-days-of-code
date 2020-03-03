@@ -5,9 +5,9 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 ## Log
 
 ### R1D8
-**Today's Progress**:  Solved Kata:'Your order, please'
+**Today's Progress**: Ruby's OOP TicTacToe full project approved! @microverseinc online school. Starting now curriculum readings about RSPEC. Solved Kata:'Your order, please'
 
-**Thoughts:** . Great to solve kata in one Go!. Looking forward to approve milestone 3 in the day!
+**Thoughts:** . Great to solve kata in one Go!. So happy project 4 has been approved completly!
 
 **Twitter:R1D8. Solved Kata:'Your order, please'  @codewars #ruby #webdevelopment #100DaysOfCode
 
@@ -17,7 +17,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 **Thoughts:** Feeling pumped on progress this week.
 
-**Twitter:R1D7. Ruby's OOP project (milestone 3) in the making. Also, took part of the great sessionEmbracing your Diversity! A talk with Chantal Rollinson from Gitlab Game @microverseincSolved Kata:Find the divisors!  @codewars #ruby #webdevelopment #100DaysOfCode
+**Twitter:R1D7. Ruby's OOP project (milestone 3) in the making. Also, took part of the great session Embracing your Diversity! A talk with Chantal Rollinson from Gitlab @microverseinc Solved Kata:Find the divisors!  @codewars #ruby #webdevelopment #100DaysOfCode
 
 ### R1D6 
 **Today's Progress**:  Working on TicTacToe Ruby's milestone 3 - Object-Oriented programming requirements @microverseinc
