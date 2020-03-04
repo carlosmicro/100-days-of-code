@@ -4,12 +4,19 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
 
+### R1D9
+**Today's Progress**: RSPEC Projects practice today. Working on RSPEC Ruby tests for TicTacToe and enumerable methods @microverseinc online school. Worked on Kata:'Roman Numbers'
+
+**Thoughts:** not feeling great as I am with a cold. Still, pushing through curriculum and material to keeping up progressing!
+
+**Twitter:R1D9.RSPEC Projects practice today. Working on RSPEC Ruby tests for TicTacToe and enumerable methods @microverseinc online school. Worked on Kata:'Roman Numbers'  @codewars #ruby #webdevelopment #100DaysOfCode
+
 ### R1D8
 **Today's Progress**: Ruby's OOP TicTacToe full project approved! @microverseinc online school. Starting now curriculum readings about RSPEC. Solved Kata:'Your order, please'
 
 **Thoughts:** . Great to solve kata in one Go!. So happy project 4 has been approved completly!
 
-**Twitter:R1D8. Solved Kata:'Your order, please'  @codewars #ruby #webdevelopment #100DaysOfCode
+**Twitter:R1D8.Ruby's OOP TicTacToe full project approved! @microverseinc online school. Starting now curriculum readings about RSPEC. Solved Kata:'Your order, please'  @codewars #ruby #webdevelopment #100DaysOfCode
 
 ### R1D7
 **Today's Progress**: Ruby's OOP project (milestone 3) in the making. Also, took part of the great sessionEmbracing your Diversity! A talk with Chantal Rollinson from Gitlab Game @microverseinc
