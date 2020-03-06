@@ -5,18 +5,18 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 ## Log
 
 ### R1D11
-**Today's Progress**: Yei!. Starting my Ruby's capstone project today. Feeling so much better after a strong cold.
+**Today's Progress**: Yei!. Starting my Ruby's capstone project today. Building a Twitter robot with 72hs dead line to present the project. Feeling pumped! Feeling so much better after a strong cold today.
 
 **Thoughts:** not feeling great as I am with a cold. Still, pushing through curriculum and material to keeping up progressing!
 
 **Twitter:R1D11.  @codewars #ruby #webdevelopment #100DaysOfCode
 
 ### R1D10
-**Today's Progress**: RSPEC Projects delivered today. Adding test setup to Ruby's tictacto and enumerables project  @microverseinc online school. No Kata today.
+**Today's Progress**: RSPEC Projects delivered and approved today. Adding test setup to Ruby's tictacto and enumerables project. Fully tested tictactoe done! @microverseinc online school.
 
 **Thoughts:** not feeling great as I am with a cold. Still, pushing through curriculum and material to keeping up progressing!
 
-**Twitter:R1D10.RSPEC Projects practice today. Working on RSPEC Ruby tests for TicTacToe and enumerable methods @microverseinc online school. Worked on Kata:'Roman Numbers'  @codewars #ruby #webdevelopment #100DaysOfCode
+**Twitter:R1D10.RSPEC Projects delivered and approved today. Adding the test setup to Ruby's tic-tac-toe and enumerable project. Next step, final Ruby Capstone project @microverseinc online school. @codewars #ruby #webdevelopment #100DaysOfCode
 
 ### R1D9
 **Today's Progress**: RSPEC Projects practice today. Working on RSPEC Ruby tests for TicTacToe and enumerable methods @microverseinc online school. Worked on Kata:'Roman Numbers'
