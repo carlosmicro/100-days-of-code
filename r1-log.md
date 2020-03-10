@@ -4,12 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
 
-### R1D13
-**Today's Progress**: . 
 
-**Thoughts:** 
-
-**Twitter:R1D13.This is an awesome day. Still learning lots with ruby gems. So far testing repo and tweet updates to decide next steps. good progress #100DaysOfCodeTest
 
 ### R1D12
 **Today's Progress**: . 
