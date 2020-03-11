@@ -4,6 +4,8 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
 
+R1D16
+**Twitter:R1D16.Working Video informative exlpanation #100DaysOfCodeTest
 
 ### R1D15
 
