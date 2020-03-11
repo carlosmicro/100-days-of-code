@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 
 ## Log
 
+### R1D14
+
+**Twitter:R1D14.Worked in final details of LagarBot. Added email functionality to send lagarbot report #100DaysOfCodeTest
+
 ### R1D13
 
 **Twitter:R1D13.This is an awesome day. Still learning lots with ruby gems. So far testing repo and tweet updates to decide next steps. good progress #100DaysOfCodeTest
