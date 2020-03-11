@@ -5,9 +5,9 @@ The log of my #100DaysOfCode challenge. Started on [February 25, Tuesday 2020].
 ## Log
 
 
-### R1D14
+### R1D15
 
-**Twitter:R1D14.Worked in final details of LagarBot. Added email functionality to send lagarbot report #100DaysOfCodeTest
+**Twitter:R1D15.Working with Diego, testing the app before submitting the project.#100DaysOfCodeTest
 
 ### R1D13
 
